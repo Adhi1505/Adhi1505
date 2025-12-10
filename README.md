@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey! I'm Adhithyan 👨‍💻
 
-<!--
-**Adhi1505/Adhi1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an ECE undergrad who loves working on digital circuits, embedded systems, and Verilog-based hardware design.
 
-Here are some ideas to get you started:
+I enjoy:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Designing hardware modules from scratch
+
+Simulating and improving timing
+
+Linking theory with actual digital implementation
+
+Learning industry workflows (APB, SPI, AXI, UVM, Synthesis, etc.)
+
+Right now, I'm building multiple communication protocol IP cores and exploring FPGA-based digital systems.
